@@ -1,0 +1,17 @@
+# Ignorar a pasta node_modules (se for um projeto Node.js)
+node_modules/
+
+# Ignorar arquivos temporários e de log
+*.log
+*.tmp
+
+# Ignorar o arquivo .env com variáveis de ambiente
+.env
+
+# Ignorar pastas específicas de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema
+.DS_Store  # macOS
+Thumbs.db  # Windows
